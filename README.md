@@ -3,9 +3,8 @@
 
 Innovative and results-driven Machine Learning Intern with expertise in Large Language Models (LLMs), multi-agent systems, Retrieval-Augmented Generation (RAG), and LLMOps. Proficient in transformer architectures (GPT, BERT, LLaMA, Mistral, T5), AI orchestration, and model optimization for enterprise applications.
 
-- 👨‍💻 All of my projects are available at [https://jeffrinwebster-portfolio.netlify.app/](https://jeffrinwebster-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@jeffrinwebster](https://medium.com/@debraj.mahato.official)
+- 📝 I regularly write articles on [https://medium.com/@debraj.mahato.official](https://medium.com/@debraj.mahato.official)
 
 - 📫 How to reach me **debraj.mahato.official@gmail.com**
 
